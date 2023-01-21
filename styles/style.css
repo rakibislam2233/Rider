@@ -26,8 +26,11 @@
 .hr{
     color: orangered;
 }
-.span-color,.icon{
+.span-color{
     color: orangered;
+}
+.icon{
+    color: orange;
 }
 footer{
     color: white;
